@@ -199,6 +199,7 @@ div .testimonial {
   .rating-group {
     text-align: center;
     margin: 2em 0 0;
+    padding: 1em auto;
   }
 
   .icon-group {
