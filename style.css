@@ -203,7 +203,7 @@ div .testimonial {
   }
 
   .icon-group {
-    margin-right: 0;
+    margin: auto 0 1rem 0;
     justify-content: center;
 
   }
